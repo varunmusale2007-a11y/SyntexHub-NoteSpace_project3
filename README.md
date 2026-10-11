@@ -88,13 +88,7 @@ No Python, backend server, or database is required.
 
 ## 🌐 Live Demo
 
-**Live Website:** Add your deployed GitHub Pages URL here.
-
-Example URL format:
-
-`https://YOUR-USERNAME.github.io/SyntexHub-NoteSpace/`
-
-Replace `YOUR-USERNAME` with your GitHub username after deployment.
+Live Website: 
 
 ## 🎯 Project Objectives
 
