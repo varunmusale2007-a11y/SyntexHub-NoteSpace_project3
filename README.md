@@ -88,7 +88,7 @@ No Python, backend server, or database is required.
 
 ## 🌐 Live Demo
 
-Live Website: 
+Live Website: https://varunmusale2007-a11y.github.io/SyntexHub-NoteSpace_project3/
 
 ## 🎯 Project Objectives
 
